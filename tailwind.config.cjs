@@ -16,6 +16,9 @@ module.exports = {
       },
       colors: {
         
+      },
+      screens: {
+        xl: "1440px"
       }
     },
   },

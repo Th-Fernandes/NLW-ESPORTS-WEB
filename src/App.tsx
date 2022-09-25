@@ -28,7 +28,7 @@ export default function App() {
   }, [])
 
   return (
-    <div className="flex items-center flex-col max-w-[1344px] mx-auto m-20 ">
+    <div className="flex items-center flex-col max-w-[1344px] mx-auto mt-20 px-4 md:px-8 xl:px-0 ">
       <img className="" src={logoImg} alt="" />
 
       <h1 className="text-[64px] text-white font-black mt-12">
