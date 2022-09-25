@@ -29,9 +29,9 @@ export default function App() {
 
   return (
     <div className="flex items-center flex-col max-w-[1344px] mx-auto mt-20 px-4 md:px-8 xl:px-0 ">
-      <img className="" src={logoImg} alt="" />
+      <img className="w-[190px] md:w-auto" src={logoImg} alt="logo" />
 
-      <h1 className="text-[64px] text-white font-black mt-12">
+      <h1 className="text-white font-black mt-12 text-2xl md:text-5xl lg:text-[64px] ">
         SEU
         <span className="bg-nlw-gradient bg-clip-text text-transparent"> DUO </span>
         ESTÁ AQUI
