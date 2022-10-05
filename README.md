@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="./src/assets/banner.png" />
-  <p style="margin-top: 15px font-size: 32px font-weight: 900">NLW ESPORTS | BACKEND</p>
+  <p style="margin-top: 15px font-size: 32px font-weight: 900">NLW ESPORTS | WEB</p>
 </h1>
 
 
